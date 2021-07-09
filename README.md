@@ -63,7 +63,7 @@ Clover Hill High School Orchestra
 - View unlocked levels and see number of XP needed to unlcok next locked levels
 - View Assignment Grades in sadhboard as well as see the music, reward and teacher comments comments
 - View complete stats and your rank by orchestra, team, instrument and grade
-- Responsive Nav Bar with hamburger menu
+- Login and Logout status is saved in local Storage for better UI experience
 ```
 
 ---
